@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Nur Bardakçı Art Website
+<img width="1280" alt="Screen Shot 2023-05-17 at 14 05 40" src="https://github.com/eyasasn/nur-bardakci-art/assets/82405060/b99736f5-1a20-48e0-b09a-57825c6c789b">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
